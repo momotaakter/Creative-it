@@ -1,0 +1,38 @@
+.maincontainer{
+    display: grid;
+    grid-template-columns:auto auto;
+    justify-content:space-between;
+    padding:15px;
+    align-items: center;
+    width:90%;
+    margin:auto;
+    background-color: #FAF0F0;
+}
+
+ul{
+    display: flex;
+    gap:19px;
+    font-size:20px;
+    text-transform: capitalize;
+    justify-content:center;
+    gap:50px;
+    align-items: center;
+  
+
+}
+ul li{
+    color:#1f1e1e !important;
+    letter-spacing: 1px;
+    text-align: center;
+    
+    
+}
+
+.link-div{
+    border-radius:10px;
+    border: none;
+}
+.allContainer{
+    width:100%;
+    background-color: #FAF0F0;
+}

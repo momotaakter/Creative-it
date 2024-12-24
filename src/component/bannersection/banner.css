@@ -1,0 +1,19 @@
+.banner-container{
+    width:100%;
+    
+}
+.main-banner{
+    width:90%;
+    margin:auto;
+    display: flex;
+    vertical-align: top;
+}
+.paragraph-section{
+    display: flex;
+}
+
+.img-banner{
+    background-color: white;
+    border-radius:10px;
+    width: 100%;
+}

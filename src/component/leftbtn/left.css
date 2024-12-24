@@ -1,0 +1,18 @@
+.discount-banner{
+    height: 100vh;
+    margin: auto;
+    width: 100%;
+    position: fixed;
+
+}
+.banner-class{
+    transform: rotate(180deg);
+}
+
+
+.twobtn{
+    display: flex;
+    justify-content: space-between;
+ 
+   
+}
